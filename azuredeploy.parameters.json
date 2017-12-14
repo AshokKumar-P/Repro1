@@ -8,13 +8,13 @@
 
     "siteName": {
 
-      "value": "GEN-UNIQUE"
+      "value": "AshokRMDeploy"
 
     },
 
     "hostingPlanName": {
 
-      "value": "GEN-UNIQUE"
+      "value": "AshokRmDeployPlan"
 
     }
 
